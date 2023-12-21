@@ -1,10 +1,10 @@
 # useGeolocation
 
 ## Custom Hooks
-### allows us to reuse non-visual logic in multiple components
-### reuseable + portable (even across multiple projects)
-### needs to use one or more hooks
-### unlike components, can receive & return any relevant data (usually {} or [])
+> allows us to reuse non-visual logic in multiple components
+> reuseable + portable (even across multiple projects)
+> needs to use one or more hooks
+> unlike components, can receive & return any relevant data (usually {} or [])
 
 ## Getting Started
 
