@@ -1,10 +1,12 @@
 # useGeolocation
 
 ## Custom Hooks
-> allows us to reuse non-visual logic in multiple components
-> reuseable + portable (even across multiple projects)
-> needs to use one or more hooks
-> unlike components, can receive & return any relevant data (usually {} or [])
+1. allows us to reuse non-visual logic in multiple components
+2. one custom hook should have one purpose, to make it reuseable + portable (even across multiple projects)
+3. rules of hooks apply on custom hooks too
+4. function name needs to start with use
+5. needs to use one or more hooks
+6. unlike components, can receive & return any relevant data (usually {} or [])
 
 ## Getting Started
 
